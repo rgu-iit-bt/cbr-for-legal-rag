@@ -13,10 +13,8 @@ CBR, RAG, LLMs, Text Embedding, Indexing, Retrieval
 - `README.md`: This file provides an overview of the repository.
 ## Citation
 
-If you find this work helpful or use any part of the provided code or datasets, please consider citing the original paper:
+If you find this work helpful or use any part of the provided code or datasets, please consider citing the original paper: TBA
 
-<tba>
+## Funding
 
-## License
-
-<tba>
+This research is funded by SFC International Science Partnerships Fund.
