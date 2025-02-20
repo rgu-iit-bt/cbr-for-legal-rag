@@ -13,7 +13,17 @@ CBR, RAG, LLMs, Text Embedding, Indexing, Retrieval
 - `README.md`: This file provides an overview of the repository.
 ## Citation
 
-If you find this work helpful or use any part of the provided code or datasets, please consider citing the original paper: TBA
+If you find this work helpful or use any part of the provided code or datasets, please consider citing the original paper:
+
+@misc{wiratunga2024cbrragcasebasedreasoningretrieval,
+      title={CBR-RAG: Case-Based Reasoning for Retrieval Augmented Generation in LLMs for Legal Question Answering}, 
+      author={Nirmalie Wiratunga and Ramitha Abeyratne and Lasal Jayawardena and Kyle Martin and Stewart Massie and Ikechukwu Nkisi-Orji and Ruvan Weerasinghe and Anne Liret and Bruno Fleisch},
+      year={2024},
+      eprint={2404.04302},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2404.04302}, 
+}
 
 ## Funding
 
